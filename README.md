@@ -2,6 +2,11 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+## Clone
+```sh
+git clone https://github.com/helloworld0123/vue3-boilerplate.git
+```
+
 ## Project Setup
 
 ```sh
